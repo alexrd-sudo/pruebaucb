@@ -1,0 +1,28 @@
+
+============================================================
+TRABAJO GRUPAL - SISTEMA DE RENDIMIENTO ACADÉMICO
+SENATI | Ing. de Software con IA | Inst. Jesús Ponce
+============================================================
+
+ENTREGABLE 1: CÓDIGO FUENTE PYTHON
+- Archivo: app.py (este mismo archivo ejecutado con Streamlit)
+
+ENTREGABLE 2: CONJUNTO DE DATOS
+- Archivo: dataset_academico.csv (150 registros generados localmente)
+
+ENTREGABLE 3: EVIDENCIA DE EJECUCIÓN
+- Esta interfaz Streamlit es la evidencia visual.
+- Tomar capturas de las secciones A y B para el informe.
+
+ENTREGABLE 4: GRÁFICOS DE RESULTADOS
+- matriz_confusion.png (Parte A)
+- clusteres_kmeans.png (Parte B)
+
+ENTREGABLE 5: INTERPRETACIÓN DE MODELOS
+- Supervisado (Random Forest): Predice aprobación/desaprobación con alta exactitud.
+- No Supervisado (K-Means): Identifica 3 perfiles de estudiantes sin usar etiquetas.
+
+ENTREGABLE 6: CONCLUSIONES
+1. Supervisado: Ideal para alertas tempranas automáticas.
+2. No Supervisado: Ideal para descubrir patrones ocultos y segmentar estudiantes.
+============================================================
